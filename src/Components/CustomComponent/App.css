@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+  /* padding: 20px; */
+
+  @media(max-width:768px) {
+    padding: 2px;
+  }
+  /* gap: 50px; */
+}
+
+a{
+  text-decoration: none;
+  color: none;
+}
