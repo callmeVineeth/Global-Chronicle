@@ -37,10 +37,10 @@ function CustomHomePage({title, desc,img,url}) {
     <Card sx={{ maxWidth: 700, display:'flex', flexDirection:'column' ,gap:2,
     '@media(max-width:768px)':{minWidth:'300px'} }}>
          <CardMedia
-          sx={{ height: 260,
+          sx={{ height: 350,
                 top:0, left:0,
                 width:'100%',
-                objectFit:'contain', backgroundColor:'#f6f6f9',
+                objectFit:'cover', backgroundColor:'#f6f6f9',
                 borderRight:'1px solid rgba(0, 0, 0, 0.2)' }}
            
           image={img} 

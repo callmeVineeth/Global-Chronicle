@@ -9,10 +9,10 @@ const CustomBox = styled(Box)(({theme})=>({
  display:'flex',
  flexDirection:'row',
  alignItems:'center',
- justifyContent:'center',
+ justifyContent:'center',      
  padding:2,
  gap:40,
- marginTop:'250px',
+ marginTop:'100px',
  [theme.breakpoints.down('md')]:{
   flexDirection:'column',
  }

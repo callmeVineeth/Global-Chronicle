@@ -10,7 +10,7 @@ import Footer from './Components/Pages/Footer';
 
 function App() {
   const [pgNo, setPgNo] = useState('1');
-  const [newsData, setNewsData] = useState([]); // State to hold fetched data
+  // const [newsData, setNewsData] = useState([]); // State to hold fetched data
   const [selectedCategory, setSelectedCategory] = useState('headlines');
 
   let api_key = process.env.REACT_APP_NEWS_API;
@@ -37,7 +37,7 @@ function App() {
       try {
         const response = await fetch(baseUrl('headlines'));
         const data = await response.json();
-        setNewsData(data); // Update the state with fetched data
+        // setNewsData(data); // Update the state with fetched data
       } catch (error) {
         console.error('Error fetching data:', error);
       }
@@ -49,7 +49,8 @@ function App() {
   return (
     <NewsProvider>
       <div className="App">
-  <ImageCard />
+
+        <ImageCard />
         <Logobar onCategoryChange={handleCategoryChange}  />
         <Header onCategoryChange={handleCategoryChange} />
         <HomePage fetchUrl={baseUrl(selectedCategory)} selectedCategory={selectedCategory} />

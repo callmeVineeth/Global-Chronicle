@@ -161,7 +161,6 @@ const list = (anchor)=> (
               );
             }
           })}
-          
          </Box>
 
            </NavbarStyles>
