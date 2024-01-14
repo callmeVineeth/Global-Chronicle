@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Global-Chronicle/static/css/main.0913e438.css",
+    "main.js": "/Global-Chronicle/static/js/main.842d36d7.js",
+    "static/media/Technology.jpg": "/Global-Chronicle/static/media/Technology.d5cb1aaf4a899178ff18.jpg",
+    "static/media/image-web-3-desktop.jpg": "/Global-Chronicle/static/media/image-web-3-desktop.988d05305d18140f188c.jpg",
+    "static/media/Sports.jpg": "/Global-Chronicle/static/media/Sports.7128ed2ccb86bd051560.jpg",
+    "static/media/science.jpg": "/Global-Chronicle/static/media/science.38a1a7cf0a65cf231e93.jpg",
+    "static/media/politics.jpg": "/Global-Chronicle/static/media/politics.114c8ddfa734cec99efe.jpg",
+    "static/media/GcLogo.png": "/Global-Chronicle/static/media/GcLogo.19e232d8bec4dddc0259.png",
+    "index.html": "/Global-Chronicle/index.html",
+    "main.0913e438.css.map": "/Global-Chronicle/static/css/main.0913e438.css.map",
+    "main.842d36d7.js.map": "/Global-Chronicle/static/js/main.842d36d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0913e438.css",
+    "static/js/main.842d36d7.js"
+  ]
+}
