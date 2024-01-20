@@ -1,6 +1,6 @@
 
 <h1>Screens</h1>
-<table>
+<table style="background-color: #f0f0f0 ">
   <tr>
     <td align="center"><img src="src/assets/Screenshot (289).png" alt="Image 1" width="300"></td>
     <td align="center"><img src="src/assets/Screenshot (290).png" alt="Image 2" width="300"></td>
