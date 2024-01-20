@@ -1,5 +1,5 @@
 
-<h1>Screens</h1>
+<h1 style="color:red">Screens</h1>
 <table style="background-color: #blue;">
   <tr>
     <td align="center"><img src="src/assets/Screenshot (289).png" alt="Image 1" width="300"></td>
