@@ -2,7 +2,7 @@
 
   # Global Chronicle
 
-#*Global Chronicle is a news website developed using React, Tailwind CSS, responsive design principles, React Router, React Icons, and News API integration, providing users with the latest news from around the globe.*
+*#Global Chronicle is a news website developed using React, Tailwind CSS, responsive design principles, React Router, React Icons, and News API integration, providing users with the latest news from around the globe.*
 
 ## Preview
 
