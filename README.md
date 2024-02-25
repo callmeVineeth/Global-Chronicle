@@ -6,12 +6,10 @@
 
 ## Preview
 
-
 <table style="background-color: #0000FF;">
   <tr>
-    <td align="center"><img src="src/assets/News_preview.gif" alt="Image 1" width="900"></td>  
+    <td colspan="3" align="center"><img src="src/assets/News_preview.gif" alt="Image Preview" width="900"></td>
   </tr>
-  
   <tr>
     <td align="center"><img src="src/assets/Screenshot (289).png" alt="Image 1" width="300"></td>
     <td align="center"><img src="src/assets/Screenshot (290).png" alt="Image 2" width="300"></td>
@@ -23,6 +21,7 @@
     <td align="center"><img src="src/assets/Screenshot (296).png" alt="Image 6" width="300"></td>
   </tr>
 </table>
+
 
 </div>
 
